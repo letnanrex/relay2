@@ -1,0 +1,12 @@
+{
+  "name": "mcbride-system",
+  "version": "1.0.0",
+  "description": "Relay Server dan CLI Admin untuk McBride Plugin",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
